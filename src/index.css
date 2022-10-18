@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+p{
+  color: rgb(247, 225, 225);
+}
+
